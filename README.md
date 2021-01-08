@@ -1,4 +1,8 @@
-This repository contains the files and configuration needed to run the `acm-mechanics` documentation.
+# Rationale
+
+This repository contains the files and configuration needed to run the `acm-mechanics` documentation websit.e
+
+# Contributing
 
 To run locally one should execute
 
