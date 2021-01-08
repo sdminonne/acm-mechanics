@@ -28,7 +28,7 @@ enableGitInfo = true
 
   # (Optional, default static/brand.svg) Set the path to a logo for the Geekdoc
   # relative to your 'static/' folder.
-  geekdocLogo = "logo.png"
+  #geekdocLogo = "logo.png"
 
   # (Optional, default false) Render menu from data file im 'data/menu/main.yaml'.
   geekdocMenuBundle = true
@@ -49,7 +49,7 @@ enableGitInfo = true
   # (Optional, default none) Enable 'Edit this page' links. Requires 'GeekdocRepo' param
   # and path must point to 'content' directory of repo.
   # You can also specify this parameter per page in front matter.
-  geekdocEditPath = "content"
+  geekdocEditPath = "edit/main/content"
 
   # (Optional, default true) Enables search function with flexsearch.
   # Index is built on the fly and might slowdown your website.
@@ -62,7 +62,7 @@ enableGitInfo = true
 
   # (Optional, default none) Add a link to your Legal Notice page to the site footer.
   # It can be either a remote url or a local file path relative to your content directory.
-  #geekdocLegalNotice = "https://blog.example.com/legal"
+  geekdocLegalNotice = "https://blog.example.com/legal"
 
   # (Optional, default none) Add a link to your Privacy Policy page to the site footer.
   # It can be either a remote url or a local file path relative to your content directory.
