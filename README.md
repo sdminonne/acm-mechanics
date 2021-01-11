@@ -1,6 +1,6 @@
 # Rationale
 
-This repository contains the files and configuration needed to run the `acm-mechanics` documentation websit.e
+This repository contains the files and configuration needed to run the `acm-mechanics` documentation website.
 
 # Contributing
 
@@ -11,3 +11,4 @@ $ hugo server -D
 ```
 
 obviously [hugo](https://gohugo.io/) is needed.
+
