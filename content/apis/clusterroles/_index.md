@@ -1,4 +1,4 @@
-| API  | Description |
+| ClusterRole  | Description |
 |----- |:---------- |
 |channels.apps.open-cluster-management.io-v1-admin | |
 |channels.apps.open-cluster-management.io-v1-crdview| |
