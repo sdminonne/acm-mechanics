@@ -15,7 +15,9 @@ I want to host provision an HUB cluster:
    * Should the cluster be public available (disconnected mode)?
 
 
+
 Policies:
 
    * Is there a way to have a timing windows for the policy? For example to grant 'software load config update only on Sunday'?
+
 
