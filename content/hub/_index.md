@@ -1,3 +1,3 @@
-The `hub` cluster is the `ACM` _control plane_.
+The `hub` cluster is the `RHACM` _control plane_.
 
 

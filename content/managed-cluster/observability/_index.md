@@ -1,1 +1,9 @@
-'Observability` resources implements a user interface give users a way to overview and eventually drill down workloads. 
+TODO
+
+How the 'Observability` is implemented inside a managed cluster?
+
+Which components are needed? 
+
+How they interact together?
+
+How these components interact with the `Hub`?

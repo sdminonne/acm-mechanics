@@ -3,24 +3,13 @@
 klusterlet : ACM = kubelet : kubernetes`
 ```
 
-`klusterlet` as the name suggests, is to `ACM` as `kubelet` is to `kubernetes`, more prosaically, is the `ACM` _agent_ on the managed cluster.
 
-## Klusterlet registration flow
+`klusterlet` as the name suggests, is to `ACM` as `kubelet` is to `kubernetes`, more prosaically, is the `ACM` _agent_ on the managed cluster but while the `kubelet` is a single process the `klusterlet` is a set of components that interact together
 
-<!-- prettier-ignore -->
-<!-- spellchecker-disable -->
-<!-- prettier-ignore -->
-{{< mermaid class="text-center" >}}
-sequenceDiagram
-    Hub->>Spoke1: foo bar
-    
-    Spoke1->>Spoke1: ratplan
-    Spoke1->>Hub: Send me the 'policy' 'Desire v1'
-    opt Desirev1
-        Hub->>Spoke1: Here is the policy
-    end
-    Spoke1->>Hub: Policy 'Desire v1' created
-    
-{{< /mermaid >}}
 
-<!-- spellchecker-enable -->
+Which components are needed? 
+
+How they interact together?
+
+How these components interact with the `Hub`?
+
